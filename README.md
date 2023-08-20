@@ -2,5 +2,5 @@ Main source of literature: [Fluid Mechanics - Frank M. White - 7 Ed.](https://ie
 
 ![20230820_103713](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/e6450a99-033c-49c0-bc25-79826744c831)
 ![20230820_103829](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/6d2dda9d-414c-40c1-9f39-cbbf5ec90713)
-![20230820_103840](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/0275b3d0-1f18-4f2d-9eb0-d3550109e158)
+![20230820_103845](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/4433501f-58cc-478d-a1b1-3926ba364210)
 ![20230820_103848](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/84772c8d-611f-477d-9f1f-51d588fc5bcf)
