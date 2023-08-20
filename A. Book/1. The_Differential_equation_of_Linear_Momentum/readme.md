@@ -1,0 +1,7 @@
+![20230812_091339](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/8154deef-32c6-4cb2-b78e-a03ff0384c4b)
+![20230812_091403](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/f6dd81b1-3dd4-4423-ad7d-72331b3f5592)
+![20230812_091416](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/443f5f45-518c-4985-9f73-842beda93e7a)
+![20230812_091425](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/f02f2ec8-b308-4c56-9d5b-8ce34308a3d1)
+![20230812_091436](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/4b3324e3-c397-4861-8cfc-169f18af5c0b)
+![20230812_091438](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/58333f2a-f755-4221-bcda-46a6184a1d98)
+![20230812_091457](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/b9c14adf-1317-471c-b26b-79404ce43e68)
