@@ -16,4 +16,5 @@
 
 ### [Viscous_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/4.%20Viscous_flow)
 
-   ![Q3](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/15fda3ae-d3c3-4c48-95a1-419cd4d11ad3)
+   ![image](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/f1ad092f-03b8-422b-bb78-a6c9bc428dd7)
+
