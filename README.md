@@ -7,7 +7,7 @@
 Old version:
 [Fluid Mechanics - Frank M. White - 7 Ed.](https://iem.ca/pdf/resources/Fluid%20Mechanics,%207th%20Ed.%20(Mcgraw-Hill%20Series%20in%20Mechanical%20Engineering).pdf)
 
-## Table of Contents
+## Table of Contents of the Exam
 
 + [Potential flow](#potential-flow)
 + [Pressure distribution in a Rigid-Body Motion](#pressure-distribution-in-a-rigid-body-motion)
@@ -21,7 +21,7 @@ Old version:
 ![261170317-32e7e3f6-c293-412f-8fd2-11f34c51cf76](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/8daee5bf-4f61-40c8-b29f-e284a888987f)
 ![261170324-0c4657f4-1e73-45e9-a647-ca8d125c403d](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/d1fa9978-d4dd-4e5c-9812-165bf0393089)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents-of-the-exam)
 
 
 
@@ -31,7 +31,7 @@ Old version:
 ![261170332-3c655795-e642-48d2-86e6-0113ef27dfe9](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/1999b7ec-9fd8-485f-969a-26604f300a77)
 ![261170335-dd0f8800-8709-434f-9917-0e192d5b7fc3](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/69234d1f-23bb-4bee-875f-4d265401d087)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents-of-the-exam)
 
 
 
@@ -42,7 +42,7 @@ Old version:
 ![261170353-196e75a2-9971-4ece-b2d9-cb4f5ab469a8](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/90093bb9-25ae-4cca-ad71-52eafa5d0c0c)
 ![261170359-4f3cdfd0-8011-49b2-b5cf-0f4884c695ab](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/6ba42f0a-a757-4cfc-afd0-8fd8f697acf1)
 
-[Back to Table of Contents](#table-of-contents)
+[Back to Table of Contents](#table-of-contents-of-the-exam)
 
 
 ### Dimensional Analysis and Similarity
