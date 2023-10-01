@@ -5,7 +5,7 @@
 
 + [Potential flow](#potential-flow)
 + [Pressure distribution in a Rigid-Body Motion](#pressure-distribution-in-a-rigid-body-motion)
-+ [Differential relations for a 2D incompressible laminar flow](#differential-relations-for-a-2D-incompressible-laminar-flow)
++ [Differential relations of a 2D incompressible laminar flow](#differential-relations-of-a-2D-incompressible-laminar-flow)
 + [Dimensional Analysis and Similarity](#dimensional-analysis-and-similarity)
 
 
@@ -29,7 +29,7 @@
 
 
 
-### Differential relations for a 2D incompressible laminar flow
+### Differential relations of a 2D incompressible laminar flow
 
 ![261170342-39554fa1-4894-4f7b-8265-c416842058a9](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/74ff6b5a-0671-48af-ac63-2502a8591038)
 ![261170343-32fb5ea1-5270-41c5-9485-7a5040380529](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/5f3f90a5-c9ad-4582-ba0b-51c93b01fcc1)
