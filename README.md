@@ -5,8 +5,8 @@
 
 + [Potential flow](#potential-flow)
 + [Pressure distribution in a Rigid-Body Motion](#pressure-distribution-in-a-rigid-body-motion)
-+ [Differential relations for fluid flow](#differential-relations-for-fluid-flow)
-+ [Dimensional analysis and Similarity](#dimensional-analysis-and-similarity)
++ [Differential relations for a 2D incompressible laminar flow](#differential-relations-for-a-2D-incompressible-laminar-flow)
++ [Dimensional Analysis and Similarity](#dimensional-analysis-and-similarity)
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-### Differential relations for fluid flow
+### Differential relations for a 2D incompressible laminar flow
 
 ![261170342-39554fa1-4894-4f7b-8265-c416842058a9](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/74ff6b5a-0671-48af-ac63-2502a8591038)
 ![261170343-32fb5ea1-5270-41c5-9485-7a5040380529](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/5f3f90a5-c9ad-4582-ba0b-51c93b01fcc1)
@@ -39,7 +39,7 @@
 [Back to Table of Contents](#table-of-contents)
 
 
-### Dimensional_analysis_and_Similarity
+### Dimensional_Analysis_and_Similarity
 
 ![261170364-1bafe9bd-72e8-4d93-a680-5801b6160b86](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/718633fb-9431-4811-9a80-66fd30245ea2)
 ![261170366-e7d3fcd4-21a9-4646-a4ac-b2e5e36a9023](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/8b118b79-737d-4394-b9de-f1c8f31d50f2)
