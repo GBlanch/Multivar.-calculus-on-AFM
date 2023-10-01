@@ -6,7 +6,7 @@
 + [Potential flow](#potential-flow)
 + [Pressure distribution in a Rigid-Body Motion](#pressure-distribution-in-a-rigid-body-motion)
 + [Differential relations for fluid flow](#differential-relations-for-fluid-flow)
-+ [Dimensional_analysis_and_Similarity](#dimensional-analysis-and-similarity)
++ [Dimensional analysis and Similarity](#dimensional-analysis-and-similarity)
 
 
 
