@@ -8,7 +8,7 @@ Old version:
 
 ## Table of Contents 
 
-+ [Potential flow]()
-+ [Pressure distribution in a Rigid-Body Motion](#pressure-distribution-in-a-rigid-body-motion)
-+ [Differential relations of a 2D incompressible laminar flow](#differential-relations-of-a-2D-incompressible-laminar-flow)
-+ [Dimensional Analysis and Similarity](#dimensional-analysis-and-similarity)
++ [A. Appendix D and E](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/A.%20Book/A.%20Appendix%20D%20and%20E/readme_apend.md)
++ [0. The_Reynolds_Transportation_Theorem](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/A.%20Book/0.%20The_Reynolds_Transportation_Theorem/readme.md)
++ [1. The_Differential_equation_of_Linear_Momentum](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/A.%20Book/1.%20The_Differential_equation_of_Linear_Momentum/readme.md)
++ [2. The_Speed_of_Sound (Compr. Flow)](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/A.%20Book/2.%20The_Speed_of_Sound%20(Compr.%20Flow)/readme.md)
