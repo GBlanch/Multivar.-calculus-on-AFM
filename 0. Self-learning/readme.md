@@ -1,6 +1,6 @@
 ### [Dimensional_analysis_and_Similarity](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/0.%20Self-learning/0.%20Dimensional_analysis_and_Similarity/readme.md)
    
-   ![Q5 DEC2019](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/cc1f6f62-38b6-481b-a803-46fce1e6b5a1)
+   ![image](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/5533dde6-16a3-42a8-b313-b832a670f7b4)
 
 ### [Differential_relations_for_fluid_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/edit/main/0.%20Self-learning/1.%20Differential_relations_for_fluid_flow%20(Boundary%20Cond.)/readme.md)
 
