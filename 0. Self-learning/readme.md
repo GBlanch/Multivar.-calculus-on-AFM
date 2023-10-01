@@ -2,7 +2,7 @@
    
    ![image](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/5533dde6-16a3-42a8-b313-b832a670f7b4)
 
-### [Differential_relations_for_fluid_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/edit/main/0.%20Self-learning/1.%20Differential_relations_for_fluid_flow%20(Boundary%20Cond.)/readme.md)
+### [Differential_relations_for_fluid_flow (Boundary Conditions)](https://github.com/GBlanch/Multivar.-calculus-on-AFM/edit/main/0.%20Self-learning/1.%20Differential_relations_for_fluid_flow%20(Boundary%20Cond.)/readme.md)
 
 ![DEC2015 Q6](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/dc141105-abed-4064-828d-d3cf055642d5)
 
