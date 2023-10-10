@@ -1,7 +1,8 @@
-[Dimensional_analysis_and_Similarity]([#dimensional-analysis-and-similarity])
-[Differential_relations_for_fluid_flow](#differential-relations-for-fluid-flow)
-[Potential_flow]([#potential-low])
-[Compressible_flow]([#compressible-flow])
+### Table of Contents
+- [Dimensional_analysis_and_Similarity]([#dimensional-analysis-and-similarity])
+- [Differential_relations_for_fluid_flow](#differential-relations-for-fluid-flow)
+- [Potential_flow]([#potential-low])
+- [Compressible_flow]([#compressible-flow])
 
 
 ### [Dimensional_analysis_and_Similarity](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/0.%20Self-learning/0.%20Dimensional_analysis_and_Similarity/readme.md)
