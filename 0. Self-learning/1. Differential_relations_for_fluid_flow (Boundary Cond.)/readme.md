@@ -3,6 +3,11 @@
 ![20230819_095113](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/db6ac989-882e-40ad-9ae8-f51b79f98f83)
 ![20230819_095120](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/40506d01-5f29-440c-9ba6-1fbe60eaaf4f)
 
+![Q4](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/98f4e23d-d60e-41fd-adbc-b451202df631)
+![20230819_095132](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/00910d38-c9cf-4c65-b4f2-f763476d16da)
+![20230819_095138](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/52896a71-7afd-46f9-97ac-eec0f1751786)
+![20230819_095148](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/14c219f8-dade-4607-993f-3517d9f7ad22)
+
 ![Q4](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/b3386c80-c788-47e0-a110-4a84e082e3fe)
 ![20230819_095313](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/c184a656-17e9-4a61-85fd-676054608d0a)
 ![20230819_095325](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/9a10eb84-9518-492b-8e5d-699907e83b75)
@@ -23,11 +28,6 @@
 ![20230819_095215](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/01ecd421-b616-4164-9843-d2019bec56e7)
 ![20230819_095219](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/394754e8-207d-4ec4-b994-20f328a1c0ad)
 ![20230819_095225](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/0992d1a3-bbc7-4b51-ab2e-55793148ff9c)
-
-![Q4](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/98f4e23d-d60e-41fd-adbc-b451202df631)
-![20230819_095132](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/00910d38-c9cf-4c65-b4f2-f763476d16da)
-![20230819_095138](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/52896a71-7afd-46f9-97ac-eec0f1751786)
-![20230819_095148](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/14c219f8-dade-4607-993f-3517d9f7ad22)
 
 ![20230819_103830](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/87caedd5-9d8d-4abc-ae9e-60acbe918096)
 ![20230819_103839](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/f6398c19-8c3d-48d8-b969-d8a9c808a10e)
