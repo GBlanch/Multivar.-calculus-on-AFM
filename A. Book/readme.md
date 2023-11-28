@@ -14,6 +14,9 @@ Old version:
 + [2. The_Speed_of_Sound (Compr. Flow)](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/A.%20Book/2.%20The_Speed_of_Sound%20(Compr.%20Flow)/readme.md)
 
 
+&nbsp;    
+&nbsp;  
+
 
 ![20230820_103713](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/76f2a42c-55d7-491c-a31d-7a19f88fdeaa)
 ![20230820_103829](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/965c1a7d-f4b1-4b4b-9389-ecd72a244202)
