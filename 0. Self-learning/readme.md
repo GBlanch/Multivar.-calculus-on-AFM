@@ -1,9 +1,9 @@
 ### Table of Contents
 - [Differential_relations_for_fluid_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/1.%20Differential_relations_for_fluid_flow%20(Boundary%20Cond.))
-- [Dimensional_analysis_and_Similarity](#dimensional-analysis-and-similarity)
-- [Potential_flow](#potential-flow)
-- [Compressible_flow](#compressible-flow)
-- [Viscous_flow](#Viscous-flow)
+- [Dimensional_analysis_and_Similarity](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/0.%20Dimensional_analysis_and_Similarity)
+- [Potential_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/2.%20Potential_flow)
+- [Compressible_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/3.%20Compressible_flow)
+- [Viscous_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/4.%20Viscous_flow)
 &nbsp;    
 &nbsp;
 
