@@ -11,7 +11,7 @@
 &nbsp;    
 &nbsp; 
 
-###[Dimensional_analysis_and_Similarity](https://github.com/GBlanch/Multivar.-calculus-on-AFM/blob/main/0.%20Self-learning/0.%20Dimensional_analysis_and_Similarity)
+###[Dimensional_analysis_and_Similarity](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/0.%20Dimensional_analysis_and_Similarity)
    
    ![image](https://github.com/GBlanch/Multivar.-calculus-on-AFM/assets/136500426/5533dde6-16a3-42a8-b313-b832a670f7b4)
 &nbsp;    
