@@ -18,8 +18,6 @@ See some of the main **9th Ed. chapters** [here](https://github.com/GBlanch/Mult
 - [Viscous_flow](https://github.com/GBlanch/Multivar.-calculus-on-AFM/tree/main/0.%20Self-learning/4.%20Viscous_flow)
 
 
-&nbsp;    
-&nbsp;  
 
 ## Table of Contents of the Exam
 
