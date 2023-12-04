@@ -27,8 +27,6 @@ See some of the main **9th Ed. chapters** [here](https://github.com/GBlanch/Mult
 + [Dimensional Analysis and Similarity](#dimensional-analysis-and-similarity)
 
 
-&nbsp;    
-&nbsp;  
 
 ### Potential flow
 
